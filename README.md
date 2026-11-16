@@ -1,4 +1,4 @@
-# Hi, I'm Dharani D (Ji) 👋
+# Hi, I'm Dharani D  👋
 
 ### Aspiring Junior Data Analyst | Power BI · SQL · Python · Azure
 
@@ -41,4 +41,4 @@ EDA on 22,029 campaigns to understand conversion, acquisition cost and ROI, with
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/dharani-d-87b9b640b](https://www.linkedin.com/in/dharani-d-87b9b640b)
-- Email: your-premdharani25@gmail.com
+- Email: premdharani25@gmail.com
